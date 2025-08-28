@@ -1,6 +1,22 @@
 
 # Student Manager
+#### Directory Structure
 
+```http
+Directory structure:
+└── faheemashraf23-student-manager/
+    ├── README.md
+    ├── add_student.php
+    ├── enroll_in_course.php
+    ├── Enrollment_history.php
+    ├── functions.php
+    ├── register.php
+    ├── sm.sql
+    ├── student_list.php
+    └── css_js/
+        └── sm.sql
+ 
+```
 This project has two tables is (`users` ,`books`)
 
 Which are given below:
